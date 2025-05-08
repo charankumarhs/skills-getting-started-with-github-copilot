@@ -78,13 +78,13 @@ section h3 {
   margin-top: 10px;
   padding-left: 20px;
   list-style-type: disc;
-  color: #444; /* Adjusted color for better contrast */
+  color: #333; /* Reverted to original color for better consistency */
 }
 
 .activity-card ul li {
-  margin-bottom: 8px; /* Increased spacing for readability */
-  font-size: 15px; /* Slightly larger font for better visibility */
-  line-height: 1.5; /* Improved line height for clarity */
+  margin-bottom: 5px; /* Adjusted spacing for better alignment */
+  font-size: 14px; /* Reverted to original font size */
+  line-height: 1.4; /* Reverted to original line height */
 }
 
 .form-group {
